@@ -29,8 +29,8 @@
 
 .weather canvas {
   display: inline-block;
-  margin-top: 5px;
-  margin-right: 5px;
+  margin-bottom: 5px;
+  margin: 10px 0;
 }
 
 .weather .temperature {
@@ -39,6 +39,8 @@
   font-size: 52px;
   line-height: 52px;
   font-weight: 400;
+  margin-left: 70px;
+  margin-bottom: 0 10;
 }
 
 .weather .unit {
